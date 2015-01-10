@@ -1,0 +1,19 @@
+﻿Things that need to be implemented in my code:
+
+FileUtil.java
+- File Opening
+- File Transfer to int Array
+- Verification of values being ints
+- Send Array over to main driver
+MainDriver.java
+- Create a menu to open the File
+- Import text file integer values into the array
+- Read values of the int array
+- Find the Duplicates in the Array
+- Quit the Program
+- Create each of the functions above.
+SortSearchUtil.java
+- Create a Binary Search Option
+- Create a Sort algorithm
+- Create a Finding Duplicates method
+
